@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Screenshot_1](/iPhone X-XS – 2.png)
+![Screenshot_1](/screenshots.png)
 
 ## Getting Started
 ![screenshot](/iPhone X-XS – 2.png)
