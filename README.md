@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Screenshot_1](/iPhone X-XS – 2.png)
+
 ## Getting Started
 ![screenshot](/iPhone X-XS – 2.png)
 This project is a starting point for a Flutter application.
